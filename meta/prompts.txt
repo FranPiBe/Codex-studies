@@ -1,0 +1,3 @@
+Return Python code that defines a function parse_and_average(csv_text) which computes column averages from a CSV string.
+Please produce a concise implementation of parse_and_average that uses csv.DictReader.
+Write a parse_and_average function that reads a CSV string and returns column means.
