@@ -16,6 +16,7 @@ This folder contains small notebooks demonstrating common machine learning workf
 ## Script
 
 - **mlflow_integration_example.py** – Utility script showing how to log parameters, metrics and a model to MLflow.
+- **llm_memory_demo.py** – Demonstrates a simple long‑term memory system for a local model served with LM Studio. See `llm_memory_demo.md` for details.
 
 ## References
 
